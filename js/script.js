@@ -218,6 +218,8 @@ window.addEventListener('DOMContentLoaded', function () {
 
     // Forms
 
+    // Forms
+
     const forms = document.querySelectorAll('form');
     const message = {
         loading: 'img/form/spinner.svg',
